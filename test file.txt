@@ -8,4 +8,5 @@ nav singh
 
 nav singh
 navsingh
+edit wasi
  
